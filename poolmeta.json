@@ -1,1 +1,6 @@
-{"key":"value"}
+{
+  "name": "JupiterPool",
+  "ticker": "JUPIT",
+  "description": "Welcome to Stake with JupiterPool!",
+  "homepage": "https://jimtod.github.io/JupiterPool"
+}
